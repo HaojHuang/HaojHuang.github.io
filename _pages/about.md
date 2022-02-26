@@ -16,8 +16,8 @@ I'm a Ph.D student in [Khoury Collge of Computer Science](https://www.khoury.nor
 **Equivariant Transporter Network**  
 **Haojie Huang**, Dian Wang, Robin Walters, Robert Platt  
 *Preprint*  
-[(PDF)](https://arxiv.org/pdf/2202.09400) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[(Code)]() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
-[(Webpage)]()
+[PDF](https://arxiv.org/pdf/2202.09400) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[Code]() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
+[Webpage]()
 ` `  
 ` `  
