@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I'm a Ph.D student in [Khoury Collge of Computer Science](https://www.khoury.northeastern.edu) at [Northeastern University](https://www.northeastern.edu), where I am advised by
+## About me
+* I'm a Ph.D student in [Khoury Collge of Computer Science](https://www.khoury.northeastern.edu) at [Northeastern University](https://www.northeastern.edu), where I am advised by
 [Prof.Platt](http://www.ccs.neu.edu/home/rplatt/) in [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/).
 
 ## Publications
