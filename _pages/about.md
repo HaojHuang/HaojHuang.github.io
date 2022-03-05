@@ -30,7 +30,7 @@ redirect_from:
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
 ` `  
 ` ` 
-## Eduacation 
+## Education 
 * (2021&nbsp; ~ &nbsp;Present) &nbsp;PhD, Computer Science, Northeastern University, Boston, United States
 * (2018&nbsp; ~ &nbsp;2021)&nbsp; &nbsp; &nbsp; M.S., Robotics, Northeastern University, Boston, United States
 * (2013&nbsp; ~ &nbsp;2017)&nbsp; &nbsp; &nbsp;Bachelor, Mechanical Engineering, Shandong University, Jinan, China
