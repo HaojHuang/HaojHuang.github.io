@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Eduacation 
-* (2021&nbsp; ~ &nbsp;Present) &nbsp;PhD, Computer Science, Northeastern University, Boston, MA
-* (2018&nbsp; ~ &nbsp;2021)&nbsp; &nbsp; &nbsp; M.S., Robotics, Northeastern University, Boston, MA
 
 ## About me
 * I'm a PhD student in [Khoury Collge of Computer Science](https://www.khoury.northeastern.edu) at [Northeastern University](https://www.northeastern.edu), where I am advised by
@@ -31,3 +28,9 @@ redirect_from:
 *2021 International Conference on 3D Vision (3DV)*  
 [PDF](https://arxiv.org/abs/2201.07937) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
+` `  
+` ` 
+## Eduacation 
+* (2021&nbsp; ~ &nbsp;Present) &nbsp;PhD, Computer Science, Northeastern University, Boston, United States
+* (2018&nbsp; ~ &nbsp;2021)&nbsp; &nbsp; &nbsp; M.S., Robotics, Northeastern University, Boston, United States
+* (2013&nbsp; ~ &nbsp;2017)&nbsp; &nbsp; &nbsp;Bachelor, Mechanical Engineering, Shandong University, Jinan, China
