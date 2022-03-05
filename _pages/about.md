@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 ## Eduacation 
-* (2021&nbsp; ~ &nbsp;Present) PhD, Computer Science, Northeastern University, Boston, MA
-* (2018&nbsp; ~ &nbsp;2021)&nbsp &nbspM.S, Robotics, Northeastern University, Boston, MA
+* (2021&nbsp; ~ &nbsp;Present) &nbsp;PhD, Computer Science, Northeastern University, Boston, MA
+* (2018&nbsp; ~ &nbsp;2021)&nbsp; &nbsp; &nbsp; M.S., Robotics, Northeastern University, Boston, MA
 
 ## About me
 * I'm a PhD student in [Khoury Collge of Computer Science](https://www.khoury.northeastern.edu) at [Northeastern University](https://www.northeastern.edu), where I am advised by
@@ -26,7 +26,7 @@ redirect_from:
 ` `  
 ` `  
 ![](images/gacsn.png){: .align-right width="200px"}
-**Graph Attention Shapce Completion Network**  
+**Graph Attention Shape Completion Network**  
 **Haojie Huang**, Ziyi Yang, Robert Platt  
 *2021 International Conference on 3D Vision (3DV)*  
 [PDF](https://arxiv.org/abs/2201.07937) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
