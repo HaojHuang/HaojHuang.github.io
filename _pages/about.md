@@ -7,8 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## Eduacation 
+* (2021&nbsp; ~ &nbsp;Present) PhD, Computer Science, Northeastern University, Boston, MA
+* (2018&nbsp; ~ &nbsp;2021) M.S, Robitics, Northeastern University, Boston, MA
+
 ## About me
-* I'm a Ph.D student in [Khoury Collge of Computer Science](https://www.khoury.northeastern.edu) at [Northeastern University](https://www.northeastern.edu), where I am advised by
+* I'm a PhD student in [Khoury Collge of Computer Science](https://www.khoury.northeastern.edu) at [Northeastern University](https://www.northeastern.edu), where I am advised by
 [Prof. Platt](http://www.ccs.neu.edu/home/rplatt/) of [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/).
 
 ## Publications
@@ -17,7 +21,13 @@ redirect_from:
 **Haojie Huang**, Dian Wang, Robin Walters, Robert Platt  
 *Preprint*  
 [PDF](https://arxiv.org/abs/2202.09400) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[Code]() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
-[Webpage](haojhuang.github.io/etp_page)
+[Code](https://github.com/HaojHuang/Equivariant-Transporter-Net) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
+[Webpage](haojhuang.github.io/etp_page/)
 ` `  
 ` `  
+![](images/gacsn.png){: .align-right width="200px"}
+**Graph Attention Shapce Completion Network**  
+**Haojie Huang**, Ziyi Yang, Robert Platt  
+*2021 International Conference on 3D Vision (3DV)*  
+[PDF](https://arxiv.org/abs/2201.07937) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
