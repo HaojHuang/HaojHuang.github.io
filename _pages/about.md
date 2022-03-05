@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## Eduacation 
 * (2021&nbsp; ~ &nbsp;Present) PhD, Computer Science, Northeastern University, Boston, MA
-* (2018&nbsp; ~ &nbsp;2021)    M.S, Robitics, Northeastern University, Boston, MA
+* (2018&nbsp; ~ &nbsp;2021)&nbsp &nbspM.S, Robotics, Northeastern University, Boston, MA
 
 ## About me
 * I'm a PhD student in [Khoury Collge of Computer Science](https://www.khoury.northeastern.edu) at [Northeastern University](https://www.northeastern.edu), where I am advised by
