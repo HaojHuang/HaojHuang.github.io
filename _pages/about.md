@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 * I'm a PhD student in [Khoury Collge of Computer Science](https://www.khoury.northeastern.edu) at [Northeastern University](https://www.northeastern.edu), where I am advised by
-[Prof. Platt](http://www.ccs.neu.edu/home/rplatt/) in [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/).
+[Prof. Platt](http://www.ccs.neu.edu/home/rplatt/) in [The Helping Hands Lab](https://helpinghandslab.netlify.app/).
 
 ## Publications
 ![](images/equi_transporter.png){: .align-right width="200px"}
