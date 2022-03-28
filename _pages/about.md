@@ -13,7 +13,7 @@ redirect_from:
 [Prof. Platt](http://www.ccs.neu.edu/home/rplatt/) in [The Helping Hands Lab](https://helpinghandslab.netlify.app/).
 
 ## Publications
-![](images/equi_transporter.png){: .align-right width="200px"}
+![](images/cn_by_cn.png){: .align-right width="200px"}
 **Equivariant Transporter Network**  
 **Haojie Huang**, Dian Wang, Robin Walters, Robert Platt  
 *Preprint*  
@@ -22,7 +22,7 @@ redirect_from:
 [Webpage](https://haojhuang.github.io/etp_page/)
 ` `  
 ` `  
-![](images/gacsn.png){: .align-right width="200px"}
+![](images/airplane.png){: .align-right width="200px"}
 **Graph Attention Shape Completion Network**  
 **Haojie Huang**, Ziyi Yang, Robert Platt  
 *2021 International Conference on 3D Vision (3DV)*  
