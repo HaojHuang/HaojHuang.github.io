@@ -16,7 +16,7 @@ redirect_from:
 ![](images/cn_by_cn.png){: .align-right width="200px"}
 **Equivariant Transporter Network**  
 **Haojie Huang**, Dian Wang, Robin Walters, Robert Platt  
-*Preprint*  
+*Robotics: Science and Systems 2022, New York City, New York, USA*  
 [PDF](https://arxiv.org/abs/2202.09400) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Code](https://github.com/HaojHuang/Equivariant-Transporter-Net) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
 [Webpage](https://haojhuang.github.io/etp_page/)
