@@ -1,5 +1,5 @@
 ---
-title: Shared with you
+title: "Shared with you"
 collection: publications
 permalink: /All in One/2009-10-01-paper-title-number-1
 
