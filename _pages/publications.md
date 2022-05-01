@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "All in One"
 permalink: /publications/
 author_profile: true
 ---
