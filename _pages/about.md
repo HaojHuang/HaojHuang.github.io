@@ -10,7 +10,11 @@ redirect_from:
 
 ## About me
 * I'm a PhD student in [Khoury Collge of Computer Science](https://www.khoury.northeastern.edu) at [Northeastern University](https://www.northeastern.edu), where I am advised by
-[Prof. Platt](http://www.ccs.neu.edu/home/rplatt/) in [The Helping Hands Lab](https://helpinghandslab.netlify.app/).
+[Prof. Platt](http://www.ccs.neu.edu/home/rplatt/) in [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/).
+
+## News
+* 04/2022: Our work on [Equivariant Transporter Network](https://haojhuang.github.io/etp_page/) is accepted at [RSS 2022](https://roboticsconference.org/).
+* 10/2021: Our work on [GASCN: Graph Attention Shape Completion Network](https://arxiv.org/abs/2201.07937) is accepted at [3DV 2021] (https://3dv2021.surrey.ac.uk/).
 
 ## Publications
 ![](images/cn_by_cn.png){: .align-right width="200px"}
