@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "All in One"
-permalink: /publications/
+permalink: /All in One/
 author_profile: true
 ---
 
