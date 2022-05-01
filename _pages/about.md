@@ -14,7 +14,7 @@ redirect_from:
 
 ## News
 * 04/2022: Our work on [Equivariant Transporter Network](https://haojhuang.github.io/etp_page/) is accepted at [RSS 2022](https://roboticsconference.org/).
-* 10/2021: Our work on [GASCN: Graph Attention Shape Completion Network](https://arxiv.org/abs/2201.07937) is accepted at [3DV 2021] (https://3dv2021.surrey.ac.uk/).
+* 10/2021: Our work on [GASCN: Graph Attention Shape Completion Network](https://arxiv.org/abs/2201.07937) is accepted at [3DV 2021](https://3dv2021.surrey.ac.uk/).
 
 ## Publications
 ![](images/cn_by_cn.png){: .align-right width="200px"}
