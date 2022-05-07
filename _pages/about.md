@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 * I'm a PhD student in [Khoury Collge of Computer Science](https://www.khoury.northeastern.edu) at [Northeastern University](https://www.northeastern.edu), where I am advised by
-[Prof. Platt](http://www.ccs.neu.edu/home/rplatt/) in [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/).
+[Prof. Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) in [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/).
 
 ## News
 * 04/2022: Our work on [Equivariant Transporter Network](https://haojhuang.github.io/etp_page/) is accepted at [RSS 2022](https://roboticsconference.org/).
