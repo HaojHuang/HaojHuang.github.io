@@ -13,7 +13,7 @@ redirect_from:
 [Prof. Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) in [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/).
 
 ## News
-* 05/2022: Spotlight presentation on [Scaling Robot Learning WorkShop](https://sites.google.com/view/icra22-srl) of [ICRA-2022](https://www.icra2022.org/program/awards).
+* 05/2022: Spotlight presentation on [Scaling Robot Learning Workshop](https://sites.google.com/view/icra22-srl) of [ICRA-2022](https://www.icra2022.org/program/awards).
 * 04/2022: Our work on [Equivariant Transporter Network](https://haojhuang.github.io/etp_page/) is accepted at [RSS 2022](https://roboticsconference.org/).
 * 10/2021: Our work on [GASCN: Graph Attention Shape Completion Network](https://arxiv.org/abs/2201.07937) is accepted at [3DV 2021](https://3dv2021.surrey.ac.uk/).
 
