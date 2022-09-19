@@ -23,7 +23,7 @@ redirect_from:
 **Haojie Huang**, Dian Wang, Xupeng Zhu, Robin Walters, Robert Platt  
 *Arxiv Preprepint*  
 [PDF (coming soon)](https://arxiv.org/abs/2202.09400) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[Code (coming sonn)]() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
+[Code (coming soon)]() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
 [Webpage (coming soon)](https://haojhuang.github.io/edge_grasp_page/)
 ` `  
 ` `  
