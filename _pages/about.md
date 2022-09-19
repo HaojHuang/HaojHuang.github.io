@@ -24,7 +24,7 @@ redirect_from:
 *Arxiv Preprepint*  
 [PDF]() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 [Code (coming soon)]() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[Webpage (coming soon)](https://haojhuang.github.io/edge_grasp_page/)
+[Webpage](https://haojhuang.github.io/edge_grasp_page/)
 ` `  
 ` `  
 ![](images/cn_by_cn.png){: .align-right width="250px"}
