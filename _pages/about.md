@@ -18,7 +18,7 @@ redirect_from:
 * **10/2021**: Our work on [GASCN: Graph Attention Shape Completion Network](https://arxiv.org/abs/2201.07937) is accepted at [3DV 2021](https://3dv2021.surrey.ac.uk/).
 
 ## Publications
-![](images/figure1_2d_tra.png){: .align-right width="200px"}
+![](images/figure1_2d_tra.png){: .align-right width="180px"}
 **Edge Grasp Network: Graph-Based SE(3)-invariant Approach to Grasp Detection**  
 **Haojie Huang**, Dian Wang, Xupeng Zhu, Robin Walters, Robert Platt  
 *Arxiv Preprepint*  
@@ -38,7 +38,7 @@ redirect_from:
 ` `  
 ` `  
 ` `  
-![](images/airplane.png){: .align-right width="300px"}
+![](images/airplane.png){: .align-right width="340px"}
 **Graph Attention Shape Completion Network**  
 **Haojie Huang**, Ziyi Yang, Robert Platt  
 *2021 International Conference on 3D Vision (3DV)*  
