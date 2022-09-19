@@ -27,7 +27,7 @@ redirect_from:
 [Webpage (coming soon)](https://haojhuang.github.io/edge_grasp_page/)
 ` `  
 ` `  
-![](images/cn_by_cn.png){: .align-right width="200px"}
+![](images/cn_by_cn.png){: .align-right width="250px"}
 **Equivariant Transporter Network**  
 **Haojie Huang**, Dian Wang, Robin Walters, Robert Platt  
 *Robotics: Science and Systems 2022 (RSS 2022)*  
@@ -36,7 +36,7 @@ redirect_from:
 [Webpage](https://haojhuang.github.io/etp_page/)
 ` `  
 ` `  
-![](images/airplane.png){: .align-right width="200px"}
+![](images/airplane.png){: .align-right width="250px"}
 **Graph Attention Shape Completion Network**  
 **Haojie Huang**, Ziyi Yang, Robert Platt  
 *2021 International Conference on 3D Vision (3DV)*  
