@@ -12,6 +12,9 @@ redirect_from:
 * I'm a PhD student in [Khoury Collge of Computer Science](https://www.khoury.northeastern.edu) at [Northeastern University](https://www.northeastern.edu), where I am advised by
 [Prof. Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) in [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/).
 
+* I am super interested in machine learning, reinforcemnet learning and their applications in robotics, image processing, point cloud analyses and other related fileds.
+
+* Stay fool and stay hungry!
 ## News
 * **11/2022**: Our work [Edge Grasp Network](https://openreview.net/group?id=robot-learning.org/CoRL/2022/Workshop/Sim_to_Real#accept--poster-) is accepted at [Sim to Real workshop](https://sites.google.com/view/corl-22-sim-to-real/home) of [CoRL 2022](https://corl2022.org/).
 * **05/2022**: Spotlight presentation of [Equivariant Transporter Network](https://drive.google.com/file/d/1jamVpGcn_C1xeoWgxqXI3KtDxpOohYHW/view) (Best Paper Award Finalists) on [Scaling Robot Learning Workshop](https://sites.google.com/view/icra22-srl) of [ICRA-2022](https://www.icra2022.org/program/awards).
