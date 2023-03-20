@@ -26,7 +26,7 @@ redirect_from:
 ![](images/figure1_2d_tra.png){: .align-right width="185px"}
 **Edge Grasp Network: Graph-Based SE(3)-invariant Approach to Grasp Detection**  
 **Haojie Huang**, Dian Wang, Xupeng Zhu, Robin Walters, Robert Platt  
-*Arxiv Preprepint*  
+*International Conference on Robotics and Automation 2023 (ICRA 2023)*  
 [PDF](https://arxiv.org/abs/2211.00191) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Code (coming soon)]() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Webpage](https://haojhuang.github.io/edge_grasp_page/)
