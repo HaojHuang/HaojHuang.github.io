@@ -16,6 +16,7 @@ redirect_from:
 
 * Stay fool and stay hungry!
 ## News
+* **01/2023**: Our work [Edge Grasp Network: A Graph-Based SE(3)-invariant Approach to Grasp Detection](https://arxiv.org/abs/2211.00191) is accepted at [ICRA](https://www.icra2023.org/).
 * **11/2022**: Our work [Edge Grasp Network](https://openreview.net/group?id=robot-learning.org/CoRL/2022/Workshop/Sim_to_Real#accept--poster-) is accepted at [Sim to Real workshop](https://sites.google.com/view/corl-22-sim-to-real/home) of [CoRL 2022](https://corl2022.org/).
 * **05/2022**: Spotlight presentation of [Equivariant Transporter Network](https://drive.google.com/file/d/1jamVpGcn_C1xeoWgxqXI3KtDxpOohYHW/view) (Best Paper Award Finalists) on [Scaling Robot Learning Workshop](https://sites.google.com/view/icra22-srl) of [ICRA-2022](https://www.icra2022.org/program/awards).
 * **04/2022**: Our work on [Equivariant Transporter Network](https://haojhuang.github.io/etp_page/) is accepted at [RSS 2022](https://roboticsconference.org/).
