@@ -28,7 +28,7 @@ redirect_from:
 **Haojie Huang**, Dian Wang, Xupeng Zhu, Robin Walters, Robert Platt  
 *International Conference on Robotics and Automation 2023 (ICRA 2023)*  
 [PDF](https://arxiv.org/abs/2211.00191) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[Code (coming soon)]() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[Code](https://github.com/HaojHuang/Edge-Grasp-Network) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Webpage](https://haojhuang.github.io/edge_grasp_page/)
 ` `  
 ` `  
