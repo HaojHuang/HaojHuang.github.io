@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-## About me: Make thing easy!
+ <span style="color:blue">some ## Make things easy</span>.
+## About me:
 * I'm a PhD student in [Khoury Collge of Computer Science](https://www.khoury.northeastern.edu) at [Northeastern University](https://www.northeastern.edu), where I am advised by
 [Prof. Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) in [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/).
 
