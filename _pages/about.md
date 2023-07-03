@@ -57,4 +57,4 @@ redirect_from:
 * (2013&nbsp; ~ &nbsp;2017)&nbsp; &nbsp; &nbsp;Bachelor, Mechanical Engineering, Shandong University, Jinan, China
 
 ## Award
-* Best Paper Award Finalists on [Scaling Robot Learning Workshop](https://sites.google.com/view/icra22-srl) of [ICRA-2022](https://www.icra2022.org/program/awards)
+* **Best Paper Award Finalists** on [Scaling Robot Learning Workshop](https://sites.google.com/view/icra22-srl) of [ICRA-2022](https://www.icra2022.org/program/awards)
