@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- <span style="color:blue">some ## Make things easy.</span>.
+ <span style="color:blue">Make things EASY!!!</span>
 ## About me:
 * I'm a PhD student in [Khoury Collge of Computer Science](https://www.khoury.northeastern.edu) at [Northeastern University](https://www.northeastern.edu), where I am advised by
 [Prof. Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) in [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/).
@@ -55,3 +55,6 @@ redirect_from:
 * (2021&nbsp; ~ &nbsp;Present) &nbsp;PhD, Computer Science, Northeastern University, Boston, United States
 * (2018&nbsp; ~ &nbsp;2021)&nbsp; &nbsp; &nbsp; M.S., Robotics, Northeastern University, Boston, United States
 * (2013&nbsp; ~ &nbsp;2017)&nbsp; &nbsp; &nbsp;Bachelor, Mechanical Engineering, Shandong University, Jinan, China
+
+## Award
+* Best Paper Award Finalists on [Scaling Robot Learning Workshop](https://sites.google.com/view/icra22-srl) of [ICRA-2022](https://www.icra2022.org/program/awards)
