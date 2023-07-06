@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Haojie Huang"
 title_separator          : "-"
 name                     : &name "Haojie Huang"
-description              : &description "PhD Student at Northeastern University"
+description              : &description "PhD Student of CS at Northeastern University"
 url                      : "https://haojhuang.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HaojHuang/HaojHuang.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Haojie Huang"
-  avatar           : "haojie.jpg"
-  bio              : "PhD Student at Northeastern University"
+  avatar           : "images/neu_emblem.png"
+  bio              : "Ph.D. Student of CS at Northeastern University"
   location         : "Boston, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,11 +109,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "https://twitter.com/HaojieHuang13"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/@haojiehuang5956"
   wikipedia        :
 
 
