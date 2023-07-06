@@ -9,10 +9,10 @@ redirect_from:
 ---
  <span style="color:blue">Make things EASY!!!</span>
 ## About me:
-* I'm a PhD student in [Khoury Collge of Computer Science](https://www.khoury.northeastern.edu) at [Northeastern University](https://www.northeastern.edu), where I am advised by
+* I'm a Ph.D. student in [Khoury Collge of Computer Science](https://www.khoury.northeastern.edu/people/haojie-huang/) at [Northeastern University](https://www.northeastern.edu), where I am advised by
 [Prof. Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) in [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/).
 
-* I am super interested in machine learning, reinforcemnet learning and their applications in robotics, image processing, point cloud analyses and other related fileds.
+* I am super interested in machine learning, reinforcement learning, and their applications in robotics, image processing, point cloud analyses, and other related fields.
 
 * Stay fool and stay hungry!
 ## News
