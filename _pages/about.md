@@ -24,7 +24,7 @@ redirect_from:
 * **10/2021**: Our work on [GASCN: Graph Attention Shape Completion Network](https://arxiv.org/abs/2201.07937) is accepted at [3DV 2021](https://3dv2021.surrey.ac.uk/).
 
 ## Publications
-![](images/stack-pyramid-no-target.png){: .align-right width="200px"}
+![](images/stack_pyramid_no_target.png){: .align-right width="200px"}
 **Leveraging Symmetries in Pick and Place**  
 **Haojie Huang**, Dian Wang, Arsh Tangri, Robin Walters, Robert Platt  
 *Arxiv Preprint*  
