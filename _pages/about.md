@@ -26,7 +26,7 @@ redirect_from:
 ## Publications
 ![](images/bi-equivariance.png){: .align-right width="185px"}
 **Leveraging Symmetries in Pick and Place**  
-**Haojie Huang**, Dian Wang, Xupeng Zhu, Robin Walters, Robert Platt  
+**Haojie Huang**, Dian Wang, Arsh Tangri, Robin Walters, Robert Platt  
 *Arxiv Preprint*  
 [PDF](https://arxiv.org/abs/2308.07948) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Code: To Improve](https://github.com/HaojHuang/Equivariant-Transporter-Net) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
