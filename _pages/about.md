@@ -25,6 +25,7 @@ redirect_from:
 
 ## Publications
 ` `
+` `
 ![](images/stack_pyramid_no_target.png){: .align-right width="180px"}
 **Leveraging Symmetries in Pick and Place**  
 **Haojie Huang**, Dian Wang, Arsh Tangri, Robin Walters, Robert Platt  
@@ -35,6 +36,7 @@ redirect_from:
 ` `  
 ` `  
 ` `  
+` `
 ` `
 ` `
 ![](images/figure1_2d_tra.png){: .align-right width="185px"}
@@ -48,6 +50,7 @@ redirect_from:
 ` `  
 ` `
 ` `
+` `
 ![](images/cn_by_cn.png){: .align-right width="240px"}
 **Equivariant Transporter Network**  
 **Haojie Huang**, Dian Wang, Robin Walters, Robert Platt  
@@ -57,6 +60,7 @@ redirect_from:
 [Webpage](https://haojhuang.github.io/etp_page/)
 ` `  
 ` `  
+` `
 ` `
 ` `
 ![](images/airplane.png){: .align-right width="350px"}
