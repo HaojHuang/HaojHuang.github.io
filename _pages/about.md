@@ -24,16 +24,18 @@ redirect_from:
 * **10/2021**: Our work on [GASCN: Graph Attention Shape Completion Network](https://arxiv.org/abs/2201.07937) is accepted at [3DV 2021](https://3dv2021.surrey.ac.uk/).
 
 ## Publications
-![](images/bi-equivariance.png){: .align-right width="185px"}
+![](images/stack-pyramid-no-target.png){: .align-right width="200px"}
 **Leveraging Symmetries in Pick and Place**  
 **Haojie Huang**, Dian Wang, Arsh Tangri, Robin Walters, Robert Platt  
 *Arxiv Preprint*  
 [PDF](https://arxiv.org/abs/2308.07948) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[Code: To Improve](https://github.com/HaojHuang/Equivariant-Transporter-Net) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[Webpage: Coming Soon]()
+[Code](https://github.com/HaojHuang/Equivariant-Transporter-Net) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[webpage: Coming soon]()
 ` `  
 ` `  
 ` `  
+` `
+
 ![](images/figure1_2d_tra.png){: .align-right width="185px"}
 **Edge Grasp Network: Graph-Based SE(3)-invariant Approach to Grasp Detection**  
 **Haojie Huang**, Dian Wang, Xupeng Zhu, Robin Walters, Robert Platt  
