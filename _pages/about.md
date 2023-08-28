@@ -49,7 +49,6 @@ redirect_from:
 ` `  
 ` `  
 ` `  
-` `  
 ![](images/cn_by_cn.png){: .align-right width="240px"}
 **Equivariant Transporter Network**  
 **Haojie Huang**, Dian Wang, Robin Walters, Robert Platt  
@@ -57,7 +56,6 @@ redirect_from:
 [PDF](https://arxiv.org/abs/2202.09400) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Code](https://github.com/HaojHuang/Equivariant-Transporter-Net) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
 [Webpage](https://haojhuang.github.io/etp_page/)
-` `  
 ` `  
 ` `  
 ` `  
