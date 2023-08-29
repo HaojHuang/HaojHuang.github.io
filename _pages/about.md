@@ -30,8 +30,8 @@ redirect_from:
 **Leveraging Symmetries in Pick and Place**  
 **Haojie Huang**, Dian Wang, Arsh Tangri, Robin Walters, Robert Platt  
 *Arxiv Preprint*  
-[PDF](https://arxiv.org/abs/2308.07948) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[Code](https://github.com/HaojHuang/Equivariant-Transporter-Net) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[PDF](https://arxiv.org/abs/2308.07948) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[Code](https://github.com/HaojHuang/Equivariant-Transporter-Net) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Webpage: Coming soon]()
 ` `  
 ` `  
@@ -43,8 +43,8 @@ redirect_from:
 **Edge Grasp Network: Graph-Based SE(3)-invariant Approach to Grasp Detection**  
 **Haojie Huang**, Dian Wang, Xupeng Zhu, Robin Walters, Robert Platt  
 *International Conference on Robotics and Automation 2023 (ICRA 2023)*  
-[PDF](https://arxiv.org/abs/2211.00191) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[Code](https://github.com/HaojHuang/Edge-Grasp-Network) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[PDF](https://arxiv.org/abs/2211.00191) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[Code](https://github.com/HaojHuang/Edge-Grasp-Network) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Webpage](https://haojhuang.github.io/edge_grasp_page/)
 ` `  
 ` `  
@@ -54,8 +54,8 @@ redirect_from:
 **Equivariant Transporter Network**  
 **Haojie Huang**, Dian Wang, Robin Walters, Robert Platt  
 *Robotics: Science and Systems 2022 (RSS 2022)*  
-[PDF](https://arxiv.org/abs/2202.09400) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[Code](https://github.com/HaojHuang/Equivariant-Transporter-Net) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[PDF](https://arxiv.org/abs/2202.09400) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[Code](https://github.com/HaojHuang/Equivariant-Transporter-Net) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Webpage](https://haojhuang.github.io/etp_page/)
 ` `  
 ` `  
@@ -65,7 +65,7 @@ redirect_from:
 **Graph Attention Shape Completion Network**  
 **Haojie Huang**, Ziyi Yang, Robert Platt  
 *2021 International Conference on 3D Vision (3DV)*  
-[PDF](https://arxiv.org/abs/2201.07937) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[PDF](https://arxiv.org/abs/2201.07937) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Webpage](https://yzylmc.github.io/presentation/GASCN-presentation/)
 ` `  
 ` `  
