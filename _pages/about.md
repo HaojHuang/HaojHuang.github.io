@@ -15,6 +15,7 @@ redirect_from:
 * I am super interested in machine learning, reinforcement learning, and their applications in robotics, image processing, point cloud analyses, and other related fields.
 
 * Stay fool and stay hungry!
+
 ## News
 * **07/2023**: Our work [Edge Grasp Network](https://openreview.net/forum?id=OFoo4631KAo) is presented at [RSS 2023 Workshop on Symmetries in Robot Learning](https://sites.google.com/view/rss23-sym).
 * **01/2023**: Our work [Edge Grasp Network: A Graph-Based SE(3)-invariant Approach to Grasp Detection](https://arxiv.org/abs/2211.00191) is accepted at [ICRA 2023](https://www.icra2023.org/).
