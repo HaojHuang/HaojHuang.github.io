@@ -30,7 +30,7 @@ redirect_from:
 ![](images/stack_pyramid_no_target.png){: .align-right width="180px"}
 **Leveraging Symmetries in Pick and Place**  
 **Haojie Huang**, Dian Wang, Arsh Tangri, Robin Walters, Robert Platt  
-*Arxiv Preprint*  
+*The International Journal of Robotics Research*  
 [PDF](https://arxiv.org/abs/2308.07948) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Code](https://github.com/HaojHuang/Equivariant-Transporter-Net) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Webpage: Coming soon]()
