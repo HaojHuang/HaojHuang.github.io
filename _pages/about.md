@@ -17,6 +17,7 @@ redirect_from:
 * Stay fool and stay hungry!
 
 ## News
+* **12/2023**: Our work [Leveraging Pick and Place Symmetries](https://arxiv.org/abs/2308.07948) is accepted at [IJRR](https://journals.sagepub.com/home/ijr).
 * **09/2023**: Starting fall-semester internship in [Boston Dynamics AI Institute](https://theaiinstitute.com/).
 * **07/2023**: Our work [Edge Grasp Network](https://openreview.net/forum?id=OFoo4631KAo) is presented at [RSS 2023 Workshop on Symmetries in Robot Learning](https://sites.google.com/view/rss23-sym).
 * **01/2023**: Our work [Edge Grasp Network: A Graph-Based SE(3)-invariant Approach to Grasp Detection](https://arxiv.org/abs/2211.00191) is accepted at [ICRA 2023](https://www.icra2023.org/).
