@@ -17,7 +17,7 @@ redirect_from:
 * Stay fool and stay hungry!
 
 ## News
-* **o1/2024**: Our work [Fourier Transporter: Bi-Equivariant Robotic Manipulation in 3D](https://openreview.net/forum?id=UulwvAU1W0) is accepted at [ICLR](https://iclr.cc/Conferences/2024).
+* *01/2024**: Our work [Fourier Transporter: Bi-Equivariant Robotic Manipulation in 3D](https://openreview.net/forum?id=UulwvAU1W0) is accepted at [ICLR](https://iclr.cc/Conferences/2024).
 * **12/2023**: Our work [Leveraging Pick and Place Symmetries](https://arxiv.org/abs/2308.07948) is accepted at [IJRR](https://journals.sagepub.com/home/ijr).
 * **09/2023**: Starting fall-semester internship in [Boston Dynamics AI Institute](https://theaiinstitute.com/).
 * **07/2023**: Our work [Edge Grasp Network](https://openreview.net/forum?id=OFoo4631KAo) is presented at [RSS 2023 Workshop on Symmetries in Robot Learning](https://sites.google.com/view/rss23-sym).
