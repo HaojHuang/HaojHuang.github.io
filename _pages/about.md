@@ -29,6 +29,18 @@ redirect_from:
 
 ## Publications
 ` `  
+![](images/bi-equiv.png){: .align-right width="180px"}
+**Fourier Transporter: Bi-Equivariant Robotic Manipulation in 3D**  
+**Haojie Huang**, Owen Howell, Dian Wang, Xupeng Zhu, Robin Walters, Robert Platt  
+*The International Conference on Learning Representations*  
+[PDF](https://arxiv.org/abs/2401.12046) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[Code (coming oon)] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[Webpage](https://haojhuang.github.io/fourtran_page/)
+` `  
+` `  
+` `  
+` `  
+` `  
 ![](images/stack_pyramid_no_target.png){: .align-right width="180px"}
 **Leveraging Symmetries in Pick and Place**  
 **Haojie Huang**, Dian Wang, Arsh Tangri, Robin Walters, Robert Platt  
