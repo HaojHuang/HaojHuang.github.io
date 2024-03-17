@@ -34,7 +34,7 @@ redirect_from:
 **Haojie Huang**, Owen Howell, Dian Wang, Xupeng Zhu, Robin Walters, Robert Platt  
 *The International Conference on Learning Representations*  
 [PDF](https://arxiv.org/abs/2401.12046) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[Code (coming oon)] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[Code (coming oon)]() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Webpage](https://haojhuang.github.io/fourtran_page/)
 ` `  
 ` `  
