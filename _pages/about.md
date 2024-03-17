@@ -31,8 +31,8 @@ redirect_from:
 ` `  
 ![](images/bi_equiv.png){: .align-right width="250px"}
 **Fourier Transporter: Bi-Equivariant Robotic Manipulation in 3D**  
-**Haojie Huang**, Owen Howell, Dian Wang, Xupeng Zhu, Robin Walters, Robert Platt  
-*The International Conference on Learning Representations*  
+**Haojie Huang**, Owen Howell, Dian Wang, Xupeng Zhu, Robert Platt, Robin Walters  
+*The International Conference on Learning Representations 2024 (ICLR 2024)*  
 [PDF](https://arxiv.org/abs/2401.12046) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Code (coming oon)]() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Webpage](https://haojhuang.github.io/fourtran_page/)
@@ -44,7 +44,7 @@ redirect_from:
 ![](images/stack_pyramid_no_target.png){: .align-right width="180px"}
 **Leveraging Symmetries in Pick and Place**  
 **Haojie Huang**, Dian Wang, Arsh Tangri, Robin Walters, Robert Platt  
-*The International Journal of Robotics Research*  
+*The International Journal of Robotics Research (Volume 43, Issue 4, 2024)*  
 [PDF](https://arxiv.org/abs/2308.07948) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Code](https://github.com/HaojHuang/Equivariant-Transporter-Net) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Webpage: Coming soon]()
@@ -79,7 +79,7 @@ redirect_from:
 ![](images/airplane.png){: .align-right width="350px"}
 **Graph Attention Shape Completion Network**  
 **Haojie Huang**, Ziyi Yang, Robert Platt  
-*2021 International Conference on 3D Vision (3DV)*  
+*2021 International Conference on 3D Vision (3DV 2021)*  
 [PDF](https://arxiv.org/abs/2201.07937) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Webpage](https://yzylmc.github.io/presentation/GASCN-presentation/)
 ` `  
