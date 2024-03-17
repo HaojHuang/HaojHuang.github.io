@@ -29,7 +29,7 @@ redirect_from:
 
 ## Publications
 ` `  
-![](images/bi_equiv.png){: .align-right width="250px"}
+![](images/bi_equiv.png){: .align-right width="230px"}
 **Fourier Transporter: Bi-Equivariant Robotic Manipulation in 3D**  
 **Haojie Huang**, Owen Howell, Dian Wang, Xupeng Zhu, Robert Platt, Robin Walters  
 *The International Conference on Learning Representations 2024 (ICLR 2024)*  
