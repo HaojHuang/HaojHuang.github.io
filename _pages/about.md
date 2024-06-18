@@ -29,7 +29,7 @@ redirect_from:
 
 ## Publications
 ` `  
-![](images/grasp_flower.png){: .align-right width="180px"}
+![](images/grasp_flower.png){: .align-right width="165px"}
 **IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies**  
 **Haojie Huang**, Karl Schmeckpeper, Dian Wang, Ondrej Biza, Yaoyao Qian, Haotian Liu, Mingxi Jia, Robert Platt, Robin Walters  
 *Arixv Preprint*  
