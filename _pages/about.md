@@ -32,14 +32,39 @@ redirect_from:
 ![](images/grasp_flower.png){: .align-right width="165px"}
 **IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies**  
 **Haojie Huang**, Karl Schmeckpeper, Dian Wang, Ondrej Biza, Yaoyao Qian, Haotian Liu, Mingxi Jia, Robert Platt, Robin Walters  
-*Arixv Preprint*  
+*Arixv Preprint (2024)*  
 [PDF](https://arxiv.org/abs/2406.11740) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Webpage](https://haojhuang.github.io/imagine_page/)
 ` `  
 ` `  
 ` `  
 ` `  
-` ` 
+` `
+![](images/equidiff.gif){: .align-right width="200px"}
+**Equivariant Diffusion Policy**  
+Dian Wang, Stephen Hart, David Surovik, Tarik Kelestemur, **Haojie Huang**, Haibo Zhao, Mark Yeatman, Jiuguang Wang, Robin Walters, Robert Platt  
+*Arxiv Preprint (2024)*  
+[PDF](https://arxiv.org/abs/2407.01812) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[Webpage](https://pointw.github.io/equidiff_page/)
+<!-- <button class="button-4" onclick="window.open('https://pointw.github.io/equidiff_page/','_blank')">Webpage</button>
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2407.01812','_blank')">PDF</button>
+<br> -->
+` `  
+` `  
+` `  
+` `  
+` `
+![](images/gem.png){: .align-right width="300px"}
+**Open-vocabulary Pick and Place via Patch-level Semantic Maps**  
+Mingxi Jia, **Haojie Huang**, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, Dian Wang, Jason Xinyu Liu, Robin Walters, Robert Platt, Stefanie Tellex  
+*Arxiv Preprint (2024)* 
+[PDF](https://arxiv.org/abs/2406.15677) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+` `  
+` `  
+` `  
+` `  
+` `
+
 ![](images/bi_equiv.png){: .align-right width="230px"}
 **Fourier Transporter: Bi-Equivariant Robotic Manipulation in 3D**  
 **Haojie Huang**, Owen Howell, Dian Wang, Xupeng Zhu, Robert Platt, Robin Walters  
