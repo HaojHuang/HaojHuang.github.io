@@ -14,7 +14,7 @@ redirect_from:
 
 * I am super interested in machine learning, reinforcement learning, and their applications in robotics, image processing, point cloud analyses, and other related fields.
 
-* Stay fool, stay hungry and stay fresh!
+* Stay fool, stay hungry and stay fresh.
 
 ## News
 * **01/2024**: Our work [Fourier Transporter: Bi-Equivariant Robotic Manipulation in 3D](https://openreview.net/forum?id=UulwvAU1W0) is accepted at [ICLR-2024](https://iclr.cc/Conferences/2024).
