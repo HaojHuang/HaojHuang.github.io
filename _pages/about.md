@@ -39,23 +39,18 @@ redirect_from:
 ` `  
 ` `  
 ` `  
-` `
-
+` `  
 ![](images/equidiff.gif){: .align-right width="240px"}
 **Equivariant Diffusion Policy**  
 Dian Wang, Stephen Hart, David Surovik, Tarik Kelestemur, **Haojie Huang**, Haibo Zhao, Mark Yeatman, Jiuguang Wang, Robin Walters, Robert Platt  
 *Arxiv Preprint (2024)*  
 [PDF](https://arxiv.org/abs/2407.01812) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Webpage](https://pointw.github.io/equidiff_page/)
-<!-- <button class="button-4" onclick="window.open('https://pointw.github.io/equidiff_page/','_blank')">Webpage</button>
-<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2407.01812','_blank')">PDF</button>
-<br> -->
 ` `  
 ` `  
 ` `  
 ` `  
-` `
-
+` `  
 ![](images/gem.png){: .align-right width="240px"}
 **Open-vocabulary Pick and Place via Patch-level Semantic Maps**  
 Mingxi Jia, **Haojie Huang**, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, Dian Wang, Jason Xinyu Liu, Robin Walters, Robert Platt, Stefanie Tellex  
@@ -65,8 +60,7 @@ Mingxi Jia, **Haojie Huang**, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, Dian Wa
 ` `  
 ` `  
 ` `  
-` `
-
+` `  
 ![](images/bi_equiv.png){: .align-right width="230px"}
 **Fourier Transporter: Bi-Equivariant Robotic Manipulation in 3D**  
 **Haojie Huang**, Owen Howell, Dian Wang, Xupeng Zhu, Robert Platt, Robin Walters  
