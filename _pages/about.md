@@ -54,10 +54,10 @@ Dian Wang, Stephen Hart, David Surovik, Tarik Kelestemur, **Haojie Huang**, Haib
 ` `  
 ` `  
 ` `
-![](images/mingxi_gem.png){: .align-right width="300px"}
+![](images/gem.png){: .align-right width="240px"}
 **Open-vocabulary Pick and Place via Patch-level Semantic Maps**  
 Mingxi Jia, **Haojie Huang**, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, Dian Wang, Jason Xinyu Liu, Robin Walters, Robert Platt, Stefanie Tellex  
-*Arxiv Preprint (2024)* 
+*Arxiv Preprint (2024)*  
 [PDF](https://arxiv.org/abs/2406.15677) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ` `  
 ` `  
