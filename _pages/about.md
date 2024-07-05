@@ -40,6 +40,7 @@ redirect_from:
 ` `  
 ` `  
 ` `
+
 ![](images/equidiff.gif){: .align-right width="240px"}
 **Equivariant Diffusion Policy**  
 Dian Wang, Stephen Hart, David Surovik, Tarik Kelestemur, **Haojie Huang**, Haibo Zhao, Mark Yeatman, Jiuguang Wang, Robin Walters, Robert Platt  
@@ -54,6 +55,7 @@ Dian Wang, Stephen Hart, David Surovik, Tarik Kelestemur, **Haojie Huang**, Haib
 ` `  
 ` `  
 ` `
+
 ![](images/gem.png){: .align-right width="240px"}
 **Open-vocabulary Pick and Place via Patch-level Semantic Maps**  
 Mingxi Jia, **Haojie Huang**, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, Dian Wang, Jason Xinyu Liu, Robin Walters, Robert Platt, Stefanie Tellex  
