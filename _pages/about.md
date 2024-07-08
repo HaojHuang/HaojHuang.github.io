@@ -44,7 +44,7 @@ redirect_from:
 ` `  
 ![](images/obGrasp.png){: .align-right width="170px"}
 **OrbitGrasp: SE(3)-Equivariant Grasp Learning**  
-Boce Hu, Xupeng Zhu*, Dian Wang*, Zihao Dong*, **Haojie Huang***, Chenghao Wang*, Robin Walters, Robert Platt  
+Boce Hu, Xupeng Zhu\*, Dian Wang\*, Zihao Dong\*, **Haojie Huang\***, Chenghao Wang\*, Robin Walters, Robert Platt  
 *Arxiv Preprint (2024)*  
 [PDF](https://arxiv.org/abs/2407.03531) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ` `  
@@ -65,7 +65,7 @@ Dian Wang, Stephen Hart, David Surovik, Tarik Kelestemur, **Haojie Huang**, Haib
 ` `  
 ![](images/gem.png){: .align-right width="240px"}
 **Open-vocabulary Pick and Place via Patch-level Semantic Maps**  
-Mingxi Jia*, **Haojie Huang***, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, Dian Wang, Jason Xinyu Liu, Robin Walters, Robert Platt, Stefanie Tellex  
+Mingxi Jia\*, **Haojie Huang\***, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, Dian Wang, Jason Xinyu Liu, Robin Walters, Robert Platt, Stefanie Tellex  
 *Arxiv Preprint (2024)*  
 [PDF](https://arxiv.org/abs/2406.15677) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ` `  
