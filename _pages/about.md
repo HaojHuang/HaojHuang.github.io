@@ -42,7 +42,7 @@ redirect_from:
 ` `  
 ` `  
 ` `  
-![](images/obGrasp.png){: .align-right width="200px"}
+![](images/obGrasp.png){: .align-right width="170px"}
 **OrbitGrasp: SE(3)-Equivariant Grasp Learning**  
 Boce Hu, Xupeng Zhu*, Dian Wang*, Zihao Dong*, **Haojie Huang***, Chenghao Wang*, Robin Walters, Robert Platt  
 *Arxiv Preprint (2024)*  
