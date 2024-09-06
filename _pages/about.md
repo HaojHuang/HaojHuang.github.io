@@ -37,12 +37,12 @@ redirect_from:
 
 * **10/2021**: Our work on [GASCN: Graph Attention Shape Completion Network](https://arxiv.org/abs/2201.07937) is accepted at [3DV 2021](https://3dv2021.surrey.ac.uk/).
 
-## Publications
+## Selected Publications
 ` `  
 ![](images/grasp_flower.png){: .align-right width="165px"}
 **IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies**  
 **Haojie Huang**, Karl Schmeckpeper, Dian Wang, Ondrej Biza, Yaoyao Qian, Haotian Liu, Mingxi Jia, Robert Platt, Robin Walters  
-*Coference on Robot Learning (CoRL 2024)*  
+*Conference on Robot Learning (CoRL 2024)*  
 [PDF](https://arxiv.org/abs/2406.11740) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Webpage](https://haojhuang.github.io/imagine_page/)
 ` `  
@@ -53,7 +53,7 @@ redirect_from:
 ![](images/obGrasp.png){: .align-right width="170px"}
 **OrbitGrasp: SE(3)-Equivariant Grasp Learning**  
 Boce Hu, Xupeng Zhu\*, Dian Wang\*, Zihao Dong\*, **Haojie Huang\***, Chenghao Wang\*, Robin Walters, Robert Platt  
-*Coference on Robot Learning (CoRL 2024)*  
+*Conference on Robot Learning (CoRL 2024)*  
 [PDF](https://arxiv.org/abs/2407.03531) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ` `  
 ` `  
@@ -63,7 +63,7 @@ Boce Hu, Xupeng Zhu\*, Dian Wang\*, Zihao Dong\*, **Haojie Huang\***, Chenghao W
 ![](images/equidiff.gif){: .align-right width="240px"}
 **Equivariant Diffusion Policy**  
 Dian Wang, Stephen Hart, David Surovik, Tarik Kelestemur, **Haojie Huang**, Haibo Zhao, Mark Yeatman, Jiuguang Wang, Robin Walters, Robert Platt  
-*Coference on Robot Learning (CoRL 2024)*  
+*Conference on Robot Learning (CoRL 2024)*  
 [PDF](https://arxiv.org/abs/2407.01812) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Webpage](https://pointw.github.io/equidiff_page/)
 ` `  
