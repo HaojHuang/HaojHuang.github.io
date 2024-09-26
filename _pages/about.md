@@ -39,7 +39,7 @@ redirect_from:
 
 ## Selected Publications
 ` `  
-![](images/phone_base_match.png){: .align-right width="210px"}
+![](images/phone_base_match.png){: .align-right width="240px"}
 **MATCH POLICY: A Simple Pipeline from Point Cloud Registration to Manipulation Policies**  
 **Haojie Huang**, Haotian Liu, Dian Wang, Robin Walter\*, Robert Platt\*  
 *axriv preprint*  
