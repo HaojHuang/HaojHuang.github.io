@@ -39,6 +39,17 @@ redirect_from:
 
 ## Selected Publications
 ` `  
+![](images/phone_base_match.png){: .align-right width="210px"}
+**MATCH POLICY: A Simple Pipeline from Point Cloud Registration to Manipulation Policies**  
+**Haojie Huang**, Haotian Liu, Dian Wang, Robin Walter\*, Robert Platt\*  
+*axriv preprint*  
+[PDF](https://www.arxiv.org/abs/2409.15517) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[Webpage](https://haojhuang.github.io/match_page/)
+` `  
+` `  
+` `  
+` `  
+` `  
 ![](images/grasp_flower.png){: .align-right width="165px"}
 **IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies**  
 **Haojie Huang**, Karl Schmeckpeper, Dian Wang, Ondrej Biza, Yaoyao Qian, Haotian Liu, Mingxi Jia, Robert Platt, Robin Walters  
