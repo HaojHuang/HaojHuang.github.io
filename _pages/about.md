@@ -10,16 +10,14 @@ redirect_from:
  <span style="color:blue">Make things EASY!!!</span>
 ## About me:
 * I'm a PhD student in [Khoury Collge of Computer Science](https://www.khoury.northeastern.edu/people/haojie-huang/) at [Northeastern University](https://www.northeastern.edu), where I am advised by
-[Prof. Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) in [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/).
-
-<!-- , and [Prof. Walters](http://www.robinwalters.com/index.html) in the [Geometric Learning Lab](http://www.robinwalters.com/pages/geometric-learning-lab.html). -->
+[Prof. Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) in [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/) and [Prof. Walters](http://www.robinwalters.com/index.html) in the [Geometric Learning Lab](http://www.robinwalters.com/pages/geometric-learning-lab.html).
 
 * I am super interested in machine learning, reinforcement learning, and their applications in robotics, image processing, point cloud analyses, and other related fields.
 
 * Stay fool, stay hungry and stay fresh.
 
 ## News
-* **09/2024**: Starting fall-semester internship in [Amazon Robtics](https://www.aboutamazon.com/news/tag/robotics), BOS12, North Reading, MA.
+* **09/2024**: Starting fall-semester internship in [Amazon Robotics](https://www.aboutamazon.com/news/tag/robotics), BOS12, North Reading, MA.
 * **09/2024**: Our work [IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies](https://arxiv.org/abs/2406.11740) is  accepted at CoRL 2024.
 *  **09/2024**: Our work [Equivariant Diffusion Policy](https://arxiv.org/abs/2407.01812) is accepted at CoRL 2024.
 *  **09/2024**: Our work [OrbitGrasp: SE(3)-Equivariant Grasp Learning](https://arxiv.org/abs/2407.03531) is accepted at CoRL 2024.
