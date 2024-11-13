@@ -17,7 +17,7 @@ redirect_from:
 * Stay fool, stay hungry and stay fresh.
 
 ## News
-* **11/2024**: Our work [Equivariant Diffusion Policy](https://arxiv.org/abs/2407.01812) is awarded as Outstanding Paper Finilist at CoRL 2024, Munich, Germany.
+* **11/2024**: Our work [Equivariant Diffusion Policy](https://arxiv.org/abs/2407.01812) is awarded as an [Outstanding Paper Finalist](https://www.corl.org/program/awards) at CoRL 2024, Munich, Germany.
 * **11/2024**: Happy to attend and talk at [Robot Learning Symposium @ TUDA](https://symposium-tuda-2024.robot-learning.net/).
 * **09/2024**: Starting fall-semester internship in [Amazon Robotics](https://www.aboutamazon.com/news/tag/robotics), BOS12, North Reading, MA.
 * **09/2024**: Our work [IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies](https://arxiv.org/abs/2406.11740) is  accepted at CoRL 2024.
@@ -153,6 +153,6 @@ Mingxi Jia\*, **Haojie Huang\***, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, Dia
 * (2013&nbsp; ~ &nbsp;2017)&nbsp; &nbsp; &nbsp;Bachelor, Mechanical Engineering, Shandong University, Jinan, China
 
 ## Award
-* **Best Paper Award Finalists** on [Scaling Robot Learning Workshop](https://sites.google.com/view/icra22-srl) of [ICRA-2022](https://www.icra2022.org/program/awards)
+* **Best Paper Award Finalist** on [Scaling Robot Learning Workshop](https://sites.google.com/view/icra22-srl) of [ICRA-2022](https://www.icra2022.org/program/awards)
 
-* **Outstanding Paper Award Finalists** on [Conference on Robot Learning](https://www.corl.org/program/awards)
+* **Outstanding Paper Award Finalist** on [Conference on Robot Learning](https://www.corl.org/program/awards)
