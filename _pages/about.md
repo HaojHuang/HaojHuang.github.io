@@ -17,6 +17,8 @@ redirect_from:
 * Stay fool, stay hungry and stay fresh.
 
 ## News
+* **11/2024**: Our work [Equivariant Diffusion Policy](https://arxiv.org/abs/2407.01812) is awarded as Outstanding Paper Finilist at CoRL 2024, Munich, Germany.
+* **11/2024**: Happy to attend and talk at [Robot Learning Symposium @ TUDA](https://symposium-tuda-2024.robot-learning.net/).
 * **09/2024**: Starting fall-semester internship in [Amazon Robotics](https://www.aboutamazon.com/news/tag/robotics), BOS12, North Reading, MA.
 * **09/2024**: Our work [IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies](https://arxiv.org/abs/2406.11740) is  accepted at CoRL 2024.
 *  **09/2024**: Our work [Equivariant Diffusion Policy](https://arxiv.org/abs/2407.01812) is accepted at CoRL 2024.
@@ -72,7 +74,7 @@ Boce Hu, Xupeng Zhu\*, Dian Wang\*, Zihao Dong\*, **Haojie Huang\***, Chenghao W
 ![](images/equidiff.gif){: .align-right width="240px"}
 **Equivariant Diffusion Policy**  
 Dian Wang, Stephen Hart, David Surovik, Tarik Kelestemur, **Haojie Huang**, Haibo Zhao, Mark Yeatman, Jiuguang Wang, Robin Walters, Robert Platt  
-*Conference on Robot Learning (CoRL 2024)*  
+*Outstanding Paper Award Finalist - Conference on Robot Learning (CoRL 2024)*  
 [PDF](https://arxiv.org/abs/2407.01812) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Webpage](https://pointw.github.io/equidiff_page/)
 ` `  
@@ -152,3 +154,5 @@ Mingxi Jia\*, **Haojie Huang\***, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, Dia
 
 ## Award
 * **Best Paper Award Finalists** on [Scaling Robot Learning Workshop](https://sites.google.com/view/icra22-srl) of [ICRA-2022](https://www.icra2022.org/program/awards)
+
+* **Outstanding Paper Award Finalists** on [Conference on Robot Learning](https://www.corl.org/program/awards)
