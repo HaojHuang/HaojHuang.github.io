@@ -78,7 +78,7 @@ Dian Wang, Stephen Hart, David Surovik, Tarik Kelestemur, **Haojie Huang**, Haib
 *Outstanding Paper Award Finalist - Conference on Robot Learning (CoRL 2024)*  
 [PDF](https://arxiv.org/abs/2407.01812) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Webpage](https://pointw.github.io/equidiff_page/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[code](https://github.com/pointW/equidiff)
+[Code](https://github.com/pointW/equidiff)
 ` `  
 ` `  
 ` `  
