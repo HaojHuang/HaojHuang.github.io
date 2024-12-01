@@ -55,7 +55,8 @@ redirect_from:
 **Haojie Huang**, Karl Schmeckpeper, Dian Wang, Ondrej Biza, Yaoyao Qian, Haotian Liu, Mingxi Jia, Robert Platt, Robin Walters  
 *Conference on Robot Learning (CoRL 2024)*  
 [PDF](https://arxiv.org/abs/2406.11740) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[Webpage](https://haojhuang.github.io/imagine_page/)
+[Webpage](https://haojhuang.github.io/imagine_page/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[Code](https://github.com/HaojHuang/imagination-policy-cor24)
 ` `  
 ` `  
 ` `  
@@ -76,7 +77,8 @@ Boce Hu, Xupeng Zhu\*, Dian Wang\*, Zihao Dong\*, **Haojie Huang\***, Chenghao W
 Dian Wang, Stephen Hart, David Surovik, Tarik Kelestemur, **Haojie Huang**, Haibo Zhao, Mark Yeatman, Jiuguang Wang, Robin Walters, Robert Platt  
 *Outstanding Paper Award Finalist - Conference on Robot Learning (CoRL 2024)*  
 [PDF](https://arxiv.org/abs/2407.01812) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[Webpage](https://pointw.github.io/equidiff_page/)
+[Webpage](https://pointw.github.io/equidiff_page/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[code](https://github.com/pointW/equidiff)
 ` `  
 ` `  
 ` `  
