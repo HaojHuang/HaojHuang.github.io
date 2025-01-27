@@ -17,6 +17,8 @@ redirect_from:
 * Stay fool, stay hungry and stay fresh.
 
 ## News
+* **01/2025**: Our work [Match Policy: A Simple Pipeline from Point Cloud Registration to Manipulation Policies](https://haojhuang.github.io/match_page/) is accepted at ICRA 2025, Atlanta, USA.
+
 * **11/2024**: Our work [Equivariant Diffusion Policy](https://arxiv.org/abs/2407.01812) is awarded as an [Outstanding Paper Finalist](https://www.corl.org/program/awards) at CoRL 2024, Munich, Germany.
 * **11/2024**: Happy to attend and talk at [Robot Learning Symposium @ TUDA](https://symposium-tuda-2024.robot-learning.net/).
 * **09/2024**: Starting fall-semester internship in [Amazon Robotics](https://www.aboutamazon.com/news/tag/robotics), BOS12, North Reading, MA.
@@ -42,7 +44,7 @@ redirect_from:
 ![](images/phone_base_match.png){: .align-right width="240px"}
 **MATCH POLICY: A Simple Pipeline from Point Cloud Registration to Manipulation Policies**  
 **Haojie Huang**, Haotian Liu, Dian Wang, Robin Walter\*, Robert Platt\*  
-*axriv preprint*  
+*International Conference on Robotics and Automation 2025 (ICRA 2025)*  
 [PDF](https://www.arxiv.org/abs/2409.15517) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Webpage](https://haojhuang.github.io/match_page/)
 ` `  
