@@ -70,7 +70,7 @@ Boce Hu, Xupeng Zhu\*, Dian Wang\*, Zihao Dong\*, **Haojie Huang\***, Chenghao W
 *Conference on Robot Learning (CoRL 2024)*  
 [PDF](https://arxiv.org/abs/2407.03531) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Webpage](https://orbitgrasp.github.io/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[Code](https://github.com/BoceHu/orbitgrasp) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[Code](https://github.com/BoceHu/orbitgrasp) 
 ` `  
 ` `  
 ` `  
