@@ -242,8 +242,8 @@ h2 {
 
 .list-item.highlight.dash-divider {
   padding-left: 0;
-  margin-top: 0.8em;
-  margin-bottom: 0.13em;
+  margin-top: 0.0 em;
+  margin-bottom: 0.0 em;
   width: calc(100% + 4em);
   margin-right: -4em;
   border-bottom: 1px dashed rgba(75, 85, 99, 0.35);
@@ -256,6 +256,11 @@ h2 {
   width: 5.5em;
   margin: 0;
   display: block;
+}
+
+/* Tighten spacing between items in the main News block. */
+#main-highlights .list-item.highlight:not(.dash-divider) {
+  margin-top: 0.77em;
 }
 
 /**************************************************/
