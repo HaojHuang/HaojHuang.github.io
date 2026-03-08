@@ -1,0 +1,523 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Haojie Huang</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1000">
+
+    <!-- Isotope JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js"></script>
+    <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+
+    <!-- Custom Style -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Favicon -->
+    <link rel="icon" href="favicon.ico" sizes="any">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+    </style>
+  </head>
+
+  <body id="body">
+    <div id="main">
+      <div id="intro">
+        <div id="intro-text">
+          <h1>Haojie Huang (黄浩杰)</h1>
+          <p>
+            <span style="color:#60a5fa;"><b>Make things EASY!!!</b></span><br><br>
+            I am a PhD student in
+            <a href="https://www.khoury.northeastern.edu/people/haojie-huang/">Khoury College of Computer Science</a>
+            at <a href="https://www.northeastern.edu">Northeastern University</a>, where I am advised by
+            <a href="https://www2.ccs.neu.edu/research/helpinghands/people/">Prof. Platt</a> in
+            <a href="https://www2.ccs.neu.edu/research/helpinghands/">The Helping Hands Lab</a> and
+            <a href="http://www.robinwalters.com/index.html">Prof. Walters</a> in the
+            <a href="http://www.robinwalters.com/pages/geometric-learning-lab.html">Geometric Learning Lab</a>.<br><br>
+            I am super interested in machine learning, reinforcement learning, and their applications in robotics, image processing, point cloud analysis, and related fields.<br><br>
+            Stay foolish, stay hungry and stay fresh.<br><br>
+            <a href="https://scholar.google.com/citations?hl=en&user=H78BJecAAAAJ">Google Scholar</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://x.com/HaojieHuang13">X(Twitter)</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://www.youtube.com/@haojiehuang5956">Youtube</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://github.com/HaojHuang">Github</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="images/CV_Haojie_Huang.pdf" target="_blank" rel="noopener noreferrer">CV/Resume</a>
+            <br><br>
+            huang dot haoj at northeastern dot edu
+            <br>
+          </p>
+        </div>
+        <div id="intro-image">
+          <img src="images/profile.jpg" alt="Haojie Huang">
+        </div>
+      </div>
+
+      <div id="filters" class="button-group">
+        <button class="button is-checked" data-filter=".highlight">Highlights</button>
+        <button class="button" data-filter=".publication">Publications</button>
+        <button class="button" data-filter=".talk">Experience</button>
+        <button class="button" data-filter=".misc">Blog</button>
+      </div>
+
+      <div class="grid">
+        <!-- Preview Videos -->
+        <div class="list-item highlight previews" data-category="highlight">
+
+          <a href="https://haojhuang.github.io/"><video playsinline="" muted="" autoplay="" loop=""><source src="images/pix2act.mp4" type="video/mp4"></video></a>
+
+          <a href="https://haojhuang.github.io/imagine_page/"><video playsinline="" muted="" autoplay="" loop=""><source src="images/imagination_policy.mp4" type="video/mp4"></video></a>
+
+          <a href="https://haojhuang.github.io/edge_grasp_page/"><video playsinline="" muted="" autoplay="" loop=""><source src="images/edge_grasp_network.mp4" type="video/mp4"></video></a>
+          
+          <a href="https://mingxi-jia.github.io/gem_page/"><video playsinline="" muted="" autoplay="" loop=""><source src="images/gem.mp4" type="video/mp4"></video></a>
+
+          <a href="https://openreview.net/pdf?id=PfAqPxPsAj"><video playsinline="" muted="" autoplay="" loop=""><source src="images/language_grasp.mp4" type="video/mp4"></video></a>
+          
+          <a href="https://isp-3d.github.io/"><video playsinline="" muted="" autoplay="" loop=""><source src="images/isp.mp4" type="video/mp4"></video></a>
+
+          <a href="https://haojhuang.github.io/etp_page/"><video playsinline="" muted="" autoplay="" loop=""><source src="images/etp.mp4" type="video/mp4"></video></a>
+
+          <a href="https://equidiff.github.io/"><video playsinline="" muted="" autoplay="" loop=""><source src="images/equidiff.mp4" type="video/mp4"></video></a>
+
+        </div>
+
+        <div class="list-item highlight" data-category="highlight">
+        </div>
+        <div class="list-item highlight" data-category="highlight">
+          <p class="date">2024</p><a href="https://2024.corl.org/program/awards">Outstanding Paper Award Finalist</a> at Conference on Robot Learning (CoRL) 2024, Munich, Germany.
+        </div>
+        <div class="list-item highlight" data-category="highlight">
+          <p class="date">2022</p><a href="https://sites.google.com/view/icra22-srl">Best Paper Award Finalist</a> at ICRA 2022 Scaling Robot Learning Workshop, Philadelphia, USA.
+        </div>
+
+        <div class="list-item highlight section-divider" data-category="highlight"></div>
+
+        <div class="list-item highlight news-heading" data-category="highlight">
+          <div class="button-group">
+            <button class="button is-checked" type="button" style="cursor: default;">News and Updates</button>
+          </div>
+        </div>
+
+        <div id="main-highlights">
+          <div class="list-item highlight" data-category="highlight">
+            <p class="date">02/2026</p>Our work, <a href="https://codemasterzhao.github.io/GSL/">Generalizable Hierarchical Skill Learning via Object-Centric Representation</a>, has been accepted by RAL 2026.
+          </div>
+          <div class="list-item highlight" data-category="highlight">
+            <p class="date">02/2026</p>Our work, <a href="https://journals.sagepub.com/doi/full/10.1177/02783649261424445">Equivariant Diffusion Policy for Sample-efficient Robotic Manipulation</a> has been accepted by IJRR 2026.
+          </div>
+          <div class="list-item highlight dash-divider" data-category="highlight"></div>
+          <div class="list-item highlight" data-category="highlight">
+            <p class="date">09/2025</p>Our work, <a href="https://isp-3d.github.io/">3D Equivariant Visuomotor Policy Learning via Spherical Projection (ISP)</a> has been accepted by NeurIPS 2025 as a Spotlight (3%).
+          </div>
+          <div class="list-item highlight" data-category="highlight">
+            <p class="date">08/2025</p>Our paper, <a href="https://equipushgrasp.github.io/">Push-Grasp Policy Learning Using Equivariant Models and Grasp Score Optimization</a> has been accepted by RAL 2025.
+          </div>
+          <div class="list-item highlight" data-category="highlight">
+            <p class="date">06/2025</p>Our paper, <a href="https://mingxi-jia.github.io/gem_page/">Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping (GEM)</a>, has been accepted by RAL.
+          </div>
+          <div class="list-item highlight" data-category="highlight">
+            <p class="date">01/2025</p>Our work <a href="https://haojhuang.github.io/match_page/">Match Policy: A Simple Pipeline from Point Cloud Registration to Manipulation Policies</a> is accepted at ICRA 2025, Atlanta, USA.
+          </div>
+          <div class="list-item highlight dash-divider" data-category="highlight"></div>
+          <div class="list-item highlight" data-category="highlight">
+            <p class="date">11/2024</p>Our work <a href="https://arxiv.org/abs/2407.01812">Equivariant Diffusion Policy</a> is awarded as an <a href="https://www.corl.org/program/awards">Outstanding Paper Finalist</a> at CoRL 2024, Munich, Germany.
+          </div>
+          <div class="list-item highlight" data-category="highlight">
+            <p class="date">11/2024</p>Happy to attend and talk at <a href="https://symposium-tuda-2024.robot-learning.net/">Robot Learning Symposium @ TUDA</a>.
+          </div>
+          <div class="list-item highlight" data-category="highlight">
+            <p class="date">09/2024</p>Starting fall-semester internship in <a href="https://www.aboutamazon.com/news/tag/robotics">Amazon Robotics</a>, BOS12, North Reading, MA.
+          </div>
+          <div class="list-item highlight" data-category="highlight">
+            <p class="date">09/2024</p>Our work <a href="https://arxiv.org/abs/2406.11740">IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies</a> is accepted at CoRL 2024.
+          </div>
+          <div class="list-item highlight" data-category="highlight">
+            <p class="date">09/2024</p>Our work <a href="https://arxiv.org/abs/2407.01812">Equivariant Diffusion Policy</a> is accepted at CoRL 2024.
+          </div>
+          <div class="list-item highlight" data-category="highlight">
+            <p class="date">09/2024</p>Our work <a href="https://arxiv.org/abs/2407.03531">OrbitGrasp: SE(3)-Equivariant Grasp Learning</a> is accepted at CoRL 2024.
+          </div>
+          <div class="list-item highlight" data-category="highlight">
+            <p class="date">09/2024</p>Our work <a href="https://arxiv.org/pdf/2407.11298">ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter</a> is accepted at CoRL 2024.
+          </div>
+          <div class="list-item highlight" data-category="highlight">
+            <p class="date">01/2024</p>Our work <a href="https://openreview.net/forum?id=UulwvAU1W0">Fourier Transporter: Bi-Equivariant Robotic Manipulation in 3D</a> is accepted at <a href="https://iclr.cc/Conferences/2024">ICLR 2024</a>.
+          </div>
+          <div class="list-item highlight dash-divider" data-category="highlight"></div>
+          <div class="list-item highlight" data-category="highlight">
+            <p class="date">12/2023</p>Our work <a href="https://arxiv.org/abs/2308.07948">Leveraging Pick and Place Symmetries</a> is accepted at <a href="https://journals.sagepub.com/doi/10.1177/02783649231225775">IJRR 2024</a>.
+          </div>
+          <div class="list-item highlight" data-category="highlight">
+            <p class="date">09/2023</p>Starting fall-semester internship in <a href="https://theaiinstitute.com/">Boston Dynamics AI Institute</a>.
+          </div>
+          <div class="list-item highlight" data-category="highlight">
+            <p class="date">07/2023</p>Our work <a href="https://openreview.net/forum?id=OFoo4631KAo">Edge Grasp Network</a> is presented at <a href="https://sites.google.com/view/rss23-sym">RSS 2023 Workshop on Symmetries in Robot Learning</a>.
+          </div>
+          <div class="list-item highlight" data-category="highlight">
+            <p class="date">01/2023</p>Our work <a href="https://arxiv.org/abs/2211.00191">Edge Grasp Network: A Graph-Based SE(3)-invariant Approach to Grasp Detection</a> is accepted at <a href="https://www.icra2023.org/">ICRA 2023</a>.
+          </div>
+          <div class="list-item highlight dash-divider" data-category="highlight"></div>
+          <div class="list-item highlight" data-category="highlight">
+            <p class="date">11/2022</p>Our work <a href="https://openreview.net/group?id=robot-learning.org/CoRL/2022/Workshop/Sim_to_Real#accept--poster-">Edge Grasp Network</a> is accepted at <a href="https://sites.google.com/view/corl-22-sim-to-real/home">Sim to Real workshop</a> of <a href="https://corl2022.org/">CoRL 2022</a>.
+          </div>
+          <div class="list-item highlight" data-category="highlight">
+            <p class="date">05/2022</p>Spotlight presentation of <a href="https://drive.google.com/file/d/1jamVpGcn_C1xeoWgxqXI3KtDxpOohYHW/view">Equivariant Transporter Network</a> (Best Paper Award Finalists) on <a href="https://sites.google.com/view/icra22-srl">Scaling Robot Learning Workshop</a> of <a href="https://www.icra2022.org/program/awards">ICRA 2022</a>.
+          </div>
+          <div class="list-item highlight" data-category="highlight">
+            <p class="date">04/2022</p>Our work on <a href="https://haojhuang.github.io/etp_page/">Equivariant Transporter Network</a> is accepted at <a href="https://roboticsconference.org/">RSS 2022</a>.
+          </div>
+          <div class="list-item highlight dash-divider" data-category="highlight"></div>
+          <div class="list-item highlight" data-category="highlight">
+            <p class="date">10/2021</p>Our work on <a href="https://arxiv.org/abs/2201.07937">GASCN: Graph Attention Shape Completion Network</a> is accepted at <a href="https://3dv2021.surrey.ac.uk/">3DV 2021</a>.
+          </div>
+        </div>
+
+        <div class="list-item publication description" data-category="publication">
+          For a more up-to-date list, visit my <a href="https://scholar.google.com/citations?hl=en&user=H78BJecAAAAJ">Google Scholar</a>.
+        </div>
+
+        <div id="main-publications">
+
+          <div class="list-item publication" data-category="publication">
+            <a href="https://pointw.github.io/equidiff_page/" class="thumbnail"><img src="images/equidiff.png" alt=""></a>
+            <div class="project-description">
+              <h3><a href="https://pointw.github.io/equidiff_page/">Equivariant diffusion policy for sample-efficient robotic manipulation</a></h3>
+              <p>
+                Dian Wang, Stephen Hart, David Surovik, Tarik Kelestemur, <b>Haojie Huang</b>, Haibo Zhao, Mark Yeatman, Xupeng Zhu, Boce Hu, Mingxi Jia, Jiuguang Wang, Robin Walters, Robert Platt<br>
+                <i>International Journal of Robotics Research (IJRR) 2026</i><br>
+                <a href="https://journals.sagepub.com/doi/epub/10.1177/02783649261424445">PDF</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                <a href="https://pointw.github.io/equidiff_page/">Webpage</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                <a href="https://github.com/pointW/equidiff">Code</a>
+              </p>
+            </div>
+          </div>
+          
+          <div class="list-item publication" data-category="publication">
+            <a href="https://codemasterzhao.github.io/GSL/" class="thumbnail"><img src="images/gsl.gif" alt=""></a>
+            <div class="project-description">
+              <h3><a href="https://codemasterzhao.github.io/GSL/">Generalizable Hierarchical Skill Learning via Object-Centric Representation</a></h3>
+              <p>
+                Haibo Zhao, Yu Qi, Boce Hu, Yizhe Zhu, Ziyan Chen, Xupeng Zhu, Owen Howell, <b>Haojie Huang</b>, Robin Walters, Dian Wang*, Robert Platt*<br>
+                <i>IEEE Robotics and Automation Letters (RAL) 2026</i><br>
+                <a href="https://arxiv.org/abs/2510.21121">PDF</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                <a href="https://codemasterzhao.github.io/GSL/">Webpage</a>
+              </p>
+            </div>
+          </div>
+          
+          <div class="list-item publication" data-category="publication">
+            <a href="https://isp-3d.github.io/" class="thumbnail"><img src="images/ego_diff.gif" alt=""></a>
+            <div class="project-description">
+              <h3><a href="https://isp-3d.github.io/">3D Equivariant Visuomotor Policy Learning via Spherical Projection</a></h3>
+              <p>
+                Boce Hu, Dian Wang, David Klee, Heng Tian, Xupeng Zhu, <b>Haojie Huang</b>, Robert Platt†, Robin Walters†<br>
+                <i>NeurIPS 2025 (Spotlight)</i><br>
+                <a href="https://arxiv.org/abs/2505.16969">PDF</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                <a href="https://isp-3d.github.io/">Webpage</a>
+              </p>
+            </div>
+          </div>
+
+          
+          <div class="list-item publication" data-category="publication">
+            <a href="https://equipushgrasp.github.io/" class="thumbnail"><img src="images/push_grasp.gif" alt=""></a>
+            <div class="project-description">
+              <h3><a href="https://equipushgrasp.github.io/">Push-Grasp Policy Learning Using Equivariant Models and Grasp Score Optimization</a></h3>
+              <p>
+                Boce Hu⋆, Heng Tian⋆, Dian Wang, <b>Haojie Huang</b>, Xupeng Zhu, Robin Walters, Robert Platt<br>
+                <i>IEEE Robotics and Automation Letters (RAL) 2025</i><br>
+                <a href="https://arxiv.org/pdf/2504.03053">PDF</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                <a href="https://equipushgrasp.github.io/">Webpage</a>
+              </p>
+            </div>
+          </div>
+
+          <div class="list-item publication" data-category="publication">
+            <a href="https://mingxi-jia.github.io/gem_page/" class="thumbnail"><img src="images/gem.gif" alt=""></a>
+            <div class="project-description">
+              <h3><a href="https://mingxi-jia.github.io/gem_page/">Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping</a></h3>
+              <p>
+                Mingxi Jia*, <b>Haojie Huang*</b>, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, Dian Wang, Jason Xinyu Liu, Robin Walters, Robert Platt, Stefanie Tellex<br>
+                <i>IEEE Robotics and Automation Letters (RAL) 2025</i><br>
+                <a href="https://arxiv.org/pdf/2406.15677">PDF</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                <a href="https://mingxi-jia.github.io/gem_page/">Webpage</a>
+              </p>
+            </div>
+          </div>
+          <div class="list-item publication" data-category="publication">
+            <a href="https://haojhuang.github.io/match_page/" class="thumbnail"><img src="images/match_policy.gif" alt=""></a>
+            <div class="project-description">
+              <h3><a href="https://haojhuang.github.io/match_page/">MATCH POLICY: A Simple Pipeline from Point Cloud Registration to Manipulation Policies</a></h3>
+              <p>
+                <b>Haojie Huang</b>, Haotian Liu, Dian Wang, Robin Walter*, Robert Platt*<br>
+                <i>International Conference on Robotics and Automation (ICRA) 2025</i><br>
+                <a href="https://www.arxiv.org/abs/2409.15517">PDF</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                <a href="https://haojhuang.github.io/match_page/">Webpage</a>
+              </p>
+            </div>
+          </div>
+          <div class="list-item publication" data-category="publication">
+            <a href="https://haojhuang.github.io/imagine_page/" class="thumbnail"><img src="images/imagination_policy.gif" alt=""></a>
+            <div class="project-description">
+              <h3><a href="https://haojhuang.github.io/imagine_page/">IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies</a></h3>
+              <p>
+                <b>Haojie Huang</b>, Karl Schmeckpeper, Dian Wang, Ondrej Biza, Yaoyao Qian, Haotian Liu, Mingxi Jia, Robert Platt, Robin Walters<br>
+                <i>Conference on Robot Learning (CoRL) 2024</i><br>
+                <a href="https://arxiv.org/abs/2406.11740">PDF</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                <a href="https://haojhuang.github.io/imagine_page/">Webpage</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                <a href="https://github.com/HaojHuang/imagination-policy-cor24">Code</a>
+              </p>
+            </div>
+          </div>
+          <div class="list-item publication" data-category="publication">
+            <a href="https://orbitgrasp.github.io/" class="thumbnail"><img src="images/orbitgrasp.gif" alt=""></a>
+            <div class="project-description">
+              <h3><a href="https://orbitgrasp.github.io/">OrbitGrasp: SE(3)-Equivariant Grasp Learning</a></h3>
+              <p>
+                Boce Hu, Xupeng Zhu*, Dian Wang*, Zihao Dong*, <b>Haojie Huang*</b>, Chenghao Wang*, Robin Walters, Robert Platt<br>
+                <i>Conference on Robot Learning (CoRL) 2024</i><br>
+                <a href="https://arxiv.org/abs/2407.03531">PDF</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                <a href="https://orbitgrasp.github.io/">Webpage</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                <a href="https://github.com/BoceHu/orbitgrasp">Code</a>
+              </p>
+            </div>
+          </div>
+          <div class="list-item publication" data-category="publication">
+            <a href="https://pointw.github.io/equidiff_page/" class="thumbnail"><img src="images/equidiff.gif" alt=""></a>
+            <div class="project-description">
+              <h3><a href="https://pointw.github.io/equidiff_page/">Equivariant Diffusion Policy</a></h3>
+              <p>
+                Dian Wang, Stephen Hart, David Surovik, Tarik Kelestemur, <b>Haojie Huang</b>, Haibo Zhao, Mark Yeatman, Jiuguang Wang, Robin Walters, Robert Platt<br>
+                <i>Outstanding Paper Award Finalist - Conference on Robot Learning (CoRL) 2024</i><br>
+                <a href="https://arxiv.org/abs/2407.01812">PDF</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                <a href="https://pointw.github.io/equidiff_page/">Webpage</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                <a href="https://github.com/pointW/equidiff">Code</a>
+              </p>
+            </div>
+          </div>
+          <!-- <div class="list-item publication" data-category="publication">
+            <a href="https://arxiv.org/abs/2406.15677" class="thumbnail"><img src="images/gem.png" alt=""></a>
+            <div class="project-description">
+              <h3><a href="https://arxiv.org/abs/2406.15677">Open-vocabulary Pick and Place via Patch-level Semantic Maps</a></h3>
+              <p>
+                Mingxi Jia*, <b>Haojie Huang*</b>, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, Dian Wang, Jason Xinyu Liu, Robin Walters, Robert Platt, Stefanie Tellex<br>
+                <i>Arxiv Preprint (2024)</i><br>
+                <a href="https://arxiv.org/abs/2406.15677">PDF</a>
+              </p>
+            </div>
+          </div> -->
+          <div class="list-item publication" data-category="publication">
+            <a href="https://haojhuang.github.io/fourtran_page/" class="thumbnail"><img src="images/fourier_transporter.gif" alt=""></a>
+            <div class="project-description">
+              <h3><a href="https://haojhuang.github.io/fourtran_page/">Fourier Transporter: Bi-Equivariant Robotic Manipulation in 3D</a></h3>
+              <p>
+                <b>Haojie Huang</b>, Owen Howell, Dian Wang, Xupeng Zhu, Robert Platt, Robin Walters<br>
+                <i>International Conference on Learning Representations (ICLR) 2024</i><br>
+                <a href="https://arxiv.org/abs/2401.12046">PDF</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                <a href="https://haojhuang.github.io/fourtran_page/">Webpage</a>
+              </p>
+            </div>
+          </div>
+          <div class="list-item publication" data-category="publication">
+            <a href="https://arxiv.org/abs/2308.07948" class="thumbnail"><img src="images/stack_pyramid_no_target.png" alt=""></a>
+            <div class="project-description">
+              <h3><a href="https://arxiv.org/abs/2308.07948">Leveraging Symmetries in Pick and Place</a></h3>
+              <p>
+                <b>Haojie Huang</b>, Dian Wang, Arsh Tangri, Robin Walters, Robert Platt<br>
+                <i>International Journal of Robotics Research (IJRR), Volume 43, Issue 4, 2024</i><br>
+                <a href="https://arxiv.org/abs/2308.07948">PDF</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                <a href="https://github.com/HaojHuang/Equivariant-Transporter-Net">Code</a>
+              </p>
+            </div>
+          </div>
+          <div class="list-item publication" data-category="publication">
+            <a href="https://haojhuang.github.io/edge_grasp_page/" class="thumbnail"><img src="images/edge_grasp_network.gif" alt=""></a>
+            <div class="project-description">
+              <h3><a href="https://haojhuang.github.io/edge_grasp_page/">Edge Grasp Network: Graph-Based SE(3)-invariant Approach to Grasp Detection</a></h3>
+              <p>
+                <b>Haojie Huang</b>, Dian Wang, Xupeng Zhu, Robin Walters, Robert Platt<br>
+                <i>International Conference on Robotics and Automation (ICRA) 2023</i><br>
+                <a href="https://arxiv.org/abs/2211.00191">PDF</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                <a href="https://github.com/HaojHuang/Edge-Grasp-Network">Code</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                <a href="https://haojhuang.github.io/edge_grasp_page/">Webpage</a>
+              </p>
+            </div>
+          </div>
+          <div class="list-item publication" data-category="publication">
+            <a href="https://haojhuang.github.io/etp_page/" class="thumbnail"><img src="images/etp.gif" alt=""></a>
+            <div class="project-description">
+              <h3><a href="https://haojhuang.github.io/etp_page/">Equivariant Transporter Network</a></h3>
+              <p>
+                <b>Haojie Huang</b>, Dian Wang, Robin Walters, Robert Platt<br>
+                <i>Robotics: Science and Systems (RSS) 2022</i><br>
+                <a href="https://arxiv.org/abs/2202.09400">PDF</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                <a href="https://github.com/HaojHuang/Equivariant-Transporter-Net">Code</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                <a href="https://haojhuang.github.io/etp_page/">Webpage</a>
+              </p>
+            </div>
+          </div>
+          <div class="list-item publication" data-category="publication">
+            <a href="https://yzylmc.github.io/presentation/GASCN-presentation/" class="thumbnail"><img src="images/airplane.png" alt=""></a>
+            <div class="project-description">
+              <h3><a href="https://yzylmc.github.io/presentation/GASCN-presentation/">Graph Attention Shape Completion Network</a></h3>
+              <p>
+                <b>Haojie Huang</b>, Ziyi Yang, Robert Platt<br>
+                <i>2021 International Conference on 3D Vision (3DV 2021)</i><br>
+                <a href="https://arxiv.org/abs/2201.07937">PDF</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                <a href="https://yzylmc.github.io/presentation/GASCN-presentation/">Webpage</a>
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="list-item talk description" data-category="talk" style="margin-bottom: 0.2em;">
+          For additional details about my experience, please refer to my CV/Resume linked above.<br><br><br>
+          Academic Experience
+        </div>
+        <div class="list-item talk" data-category="talk">
+          <p class="date">2021-Now</p>PhD, Computer Science, Northeastern University, Boston, United States
+        </div>
+        <div class="list-item talk" data-category="talk">
+          <p class="date">2018-21</p>M.S., Robotics, Northeastern University, Boston, United States
+        </div>
+        <div class="list-item talk" data-category="talk">
+          <p class="date">2013-17</p>Bachelor, Mechanical Engineering, Shandong University, Jinan, China
+        </div>
+
+        <div class="list-item talk description" data-category="talk" style="margin-top: 3em; margin-bottom: 0.2em;">
+          Work Experience
+        </div>
+        <div class="list-item talk" data-category="talk">
+          <p class="date">09/2024-01/2025</p>Amazon Robotics, Applied Scientist Intern, North Reading, MA
+        </div>
+        <div class="list-item talk" data-category="talk">
+          <p class="date">09/2023-01/2024</p>RAI (Boston Dynamics AI Institute), Research Scientist Intern, Cambridge, MA
+        </div>
+
+        <div class="list-item talk description" data-category="talk" style="margin-top: 3em; margin-bottom: 0.2em;">
+          Professional Services
+        </div>
+        <div class="list-item talk" data-category="talk">
+          <p class="date">2026</p>Reviewer, ICML 2026.
+        </div>
+        <div class="list-item talk" data-category="talk">
+          <p class="date">2025</p>Reviewer, IROS 2025, RAL 2025, ICRA 2025, T-RO 2025, ICLR 2025, RSS 2025.
+        </div>
+        <div class="list-item talk" data-category="talk">
+          <p class="date">2024</p>Invited Talk, Next-Gen Robot Learning Symposium at TU Darmstadt; Reviewer, IROS 2024, RAL 2024, ICRA 2024.
+        </div>
+        <div class="list-item talk" data-category="talk">
+          <p class="date">2023</p>Program Committee Member, Workshop on Symmetries in Robot Learning at RSS 2023; Reviewer, IROS 2023, RAL 2023, ICRA 2023.
+        </div>
+
+        <div class="list-item misc description" data-category="misc">
+        </div>
+        <div class="list-item misc blog-post" data-category="misc">
+          <h3 class="blog-title"><b>Shared with the World</b></h3>
+          <p class="blog-meta">May 01, 2022</p>
+          <p class="blog-content" data-max-words="26">
+            Research is not something that you are trying to get good results, and then write a good story. There are some beautiful laws in the world that need your exploration and demonstration. Go to find them with patience. Good luck.
+          </p>
+          <button class="blog-toggle" type="button">Read more</button>
+        </div>
+
+      </div>
+      <div class="footer-inline">
+        Modified on 08 March 2026. Template adapted from <a href="https://github.com/andyzeng/andyzeng.github.io">andyzeng.github.io</a>.
+      </div>
+    </div>
+
+    <script>
+      var $grid = $('.grid').isotope({
+        itemSelector: '.list-item',
+        layoutMode: 'fitRows',
+        transitionDuration: 0,
+        stagger: 10,
+        initLayout: false
+      });
+
+      $('#filters').on('click', 'button', function() {
+        var filterValue = $(this).attr('data-filter');
+        localStorage.setItem('filterValue', filterValue);
+        $grid.isotope({ filter: filterValue });
+      });
+
+      $('.button-group').each(function(i, buttonGroup) {
+        var $buttonGroup = $(buttonGroup);
+        $buttonGroup.on('click', 'button', function() {
+          $buttonGroup.find('.is-checked').removeClass('is-checked');
+          $(this).addClass('is-checked');
+        });
+      });
+
+      function update_isotope() {
+        var defaultFilterValue = localStorage.getItem('filterValue');
+        if (defaultFilterValue == null) {
+          defaultFilterValue = '.highlight';
+        }
+        $grid.isotope({ filter: defaultFilterValue });
+        var buttons = document.getElementsByClassName('button');
+        for (var currButton of buttons) {
+          if (currButton.getAttribute('data-filter') == defaultFilterValue) {
+            currButton.classList.add('is-checked');
+          } else {
+            currButton.classList.remove('is-checked');
+          }
+        }
+      }
+
+      function initialize_blog_posts() {
+        var posts = document.querySelectorAll('.blog-post');
+        for (var post of posts) {
+          var content = post.querySelector('.blog-content');
+          var toggle = post.querySelector('.blog-toggle');
+          if (!content || !toggle) {
+            continue;
+          }
+
+          var fullText = content.textContent.trim().replace(/\s+/g, ' ');
+          content.setAttribute('data-full-text', fullText);
+          var maxWords = parseInt(content.getAttribute('data-max-words') || '26', 10);
+          var words = fullText.split(' ');
+
+          if (words.length <= maxWords) {
+            toggle.style.display = 'none';
+            continue;
+          }
+
+          var shortText = words.slice(0, maxWords).join(' ') + '...';
+          content.textContent = shortText;
+          content.setAttribute('data-expanded', 'false');
+
+          toggle.addEventListener('click', function() {
+            var currPost = this.closest('.blog-post');
+            var currContent = currPost.querySelector('.blog-content');
+            var currWords = currContent.getAttribute('data-full-text').split(' ');
+            var currMaxWords = parseInt(currContent.getAttribute('data-max-words') || '26', 10);
+            var expanded = currContent.getAttribute('data-expanded') === 'true';
+
+            if (expanded) {
+              currContent.textContent = currWords.slice(0, currMaxWords).join(' ') + '...';
+              currContent.setAttribute('data-expanded', 'false');
+              this.textContent = 'Read more';
+            } else {
+              currContent.textContent = currContent.getAttribute('data-full-text');
+              currContent.setAttribute('data-expanded', 'true');
+              this.textContent = 'Show less';
+            }
+            $grid.isotope('layout');
+          });
+        }
+      }
+
+      initialize_blog_posts();
+      update_isotope();
+    </script>
+  </body>
+</html>
