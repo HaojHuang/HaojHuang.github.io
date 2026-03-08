@@ -220,7 +220,8 @@
                 Boce Hu, Dian Wang, David Klee, Heng Tian, Xupeng Zhu, <b>Haojie Huang</b>, Robert Platt†, Robin Walters†<br>
                 <i>NeurIPS 2025 (Spotlight)</i><br>
                 <a href="https://arxiv.org/abs/2505.16969">PDF</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-                <a href="https://isp-3d.github.io/">Webpage</a>
+                <a href="https://isp-3d.github.io/">Webpage</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                <a href="https://github.com/BoceHu/ISP">Code</a>
               </p>
             </div>
           </div>
@@ -247,7 +248,8 @@
                 Mingxi Jia*, <b>Haojie Huang*</b>, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, Dian Wang, Jason Xinyu Liu, Robin Walters, Robert Platt, Stefanie Tellex<br>
                 <i>IEEE Robotics and Automation Letters (RAL) 2025</i><br>
                 <a href="https://arxiv.org/pdf/2406.15677">PDF</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-                <a href="https://mingxi-jia.github.io/gem_page/">Webpage</a>
+                <a href="https://mingxi-jia.github.io/gem_page/">Webpage</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+                <a href="https://github.com/mingxi-jia/GEM_code">Code</a>
               </p>
             </div>
           </div>
@@ -420,12 +422,25 @@
           <p class="date">2023</p>Program Committee Member, Workshop on Symmetries in Robot Learning at RSS 2023; Reviewer, IROS 2023, RAL 2023, ICRA 2023.
         </div>
 
-        <div class="list-item misc description" data-category="misc">
+        <div class="list-item misc blog-post" data-category="misc">
+          <h3 class="blog-title"><b>Recent Research Statement</b></h3>
+          <p class="blog-meta">March 08, 2026</p>
+          <p class="blog-content" data-max-words="29">
+            The first stage of my PhD study focuses on geometric deep learning for robotic manipulation. I first defined SE(3) symmetries for grasping and bi-equivariant symmetries for pick-and-place. By leveraging geometric symmetries, policies are constrained to follow the underlying physics laws, and this can dramatically improve sample efficiency, generalization ability, and learning efficiency.
+
+            <br><br>
+            The latter stage of my PhD study focuses on action representation. The representation of action defines how robots interact with and learn from the physical world. A geometric action representation reduces the redundancy of data. Humans do not control their hands by commanding “move forward 5 cm” and “rotate along some axis by 10 degrees” to grasp a mug. It is very natural. This observation inspired me to think about how to formulate manipulation policies.
+
+            <br><br>
+            A better action representation or interaction structure is one milestone toward achieving good results for general robot models. Another important aspect is how to encode history information more naturally. Scaling robot models only makes sense when these two aspects are fully explored.
+          </p>
+            <button class="blog-toggle" type="button">Read more</button>
         </div>
+
         <div class="list-item misc blog-post" data-category="misc">
           <h3 class="blog-title"><b>Shared with the World</b></h3>
           <p class="blog-meta">May 01, 2022</p>
-          <p class="blog-content" data-max-words="26">
+          <p class="blog-content" data-max-words="29">
             Research is not something that you are trying to get good results, and then write a good story. There are some beautiful laws in the world that need your exploration and demonstration. Go to find them with patience. Good luck.
           </p>
           <button class="blog-toggle" type="button">Read more</button>
@@ -485,6 +500,9 @@
             continue;
           }
 
+          var fullHtml = content.innerHTML.trim();
+          content.setAttribute('data-full-html', fullHtml);
+
           var fullText = content.textContent.trim().replace(/\s+/g, ' ');
           content.setAttribute('data-full-text', fullText);
           var maxWords = parseInt(content.getAttribute('data-max-words') || '26', 10);
@@ -511,7 +529,7 @@
               currContent.setAttribute('data-expanded', 'false');
               this.textContent = 'Read more';
             } else {
-              currContent.textContent = currContent.getAttribute('data-full-text');
+              currContent.innerHTML = currContent.getAttribute('data-full-html');
               currContent.setAttribute('data-expanded', 'true');
               this.textContent = 'Show less';
             }
