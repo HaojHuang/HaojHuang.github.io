@@ -139,7 +139,7 @@ h2 {
   cursor: pointer;
   border: none;
   background: none;
-  color: #4b5563;
+  color: #6b7280;
   font-size: 1.6em;
   line-height: 2.4em;
   margin-top: 0.5em;
@@ -149,7 +149,7 @@ h2 {
 }
 
 .button:hover {
-  color: #111827;
+  color: #6b7280;
 }
 
 .button:active,
