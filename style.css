@@ -394,6 +394,17 @@ h3 a:hover {
   text-decoration: underline;
 }
 
+.blog-toggle-link {
+  display: inline-block;
+  margin-top: 0.3em;
+  color: #2563eb;
+}
+
+.blog-toggle-link:hover {
+  text-decoration: underline;
+  border-bottom: none;
+}
+
 /**************************************************/
 /* Subtle footer at the bottom of the page. */
 
@@ -410,4 +421,95 @@ h3 a:hover {
   border-bottom: 1px solid rgba(75, 85, 99, 0.35);
   margin-top: 0.4em;
   padding-bottom: 0.4em;
+}
+
+/**************************************************/
+/* Standalone blog post page. */
+
+.post-page {
+  padding-top: 4em;
+  padding-bottom: 4em;
+}
+
+.back-link {
+  display: inline-block;
+  margin-bottom: 2em;
+  color: #6b7280;
+}
+
+.back-link:hover {
+  color: #2563eb;
+}
+
+.post-header h1 {
+  font-size: 1.9em;
+  line-height: 1.35em;
+  font-weight: 700;
+  color: #111827;
+}
+
+.post-meta {
+  margin-top: 0.8em;
+  color: #6b7280;
+  font-size: 0.95em;
+}
+
+.post-share {
+  margin-top: 1.2em;
+  margin-bottom: 2.5em;
+}
+
+.share-x {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  border: 1px solid rgba(75, 85, 99, 0.35);
+  border-radius: 999px;
+  padding: 0.5em 1.1em;
+  color: #111827;
+  font-size: 0.95em;
+}
+
+.share-x:hover {
+  border-color: #111827;
+  color: #111827;
+}
+
+.share-x svg {
+  width: 0.95em;
+  height: 0.95em;
+  fill: currentColor;
+}
+
+.post-body {
+  font-size: 1.05em;
+  line-height: 1.7em;
+  color: #1f2937;
+}
+
+.post-body p {
+  margin-bottom: 1.1em;
+}
+
+.post-body h2 {
+  font-size: 1.3em;
+  line-height: 1.4em;
+  font-weight: 700;
+  color: #111827;
+  margin-top: 1.8em;
+  margin-bottom: 0.6em;
+}
+
+.post-body strong {
+  font-weight: 700;
+}
+
+.post-body em {
+  font-style: italic;
+}
+
+.post-footer {
+  margin-top: 3em;
+  padding-top: 1.5em;
+  border-top: 1px solid rgba(75, 85, 99, 0.35);
 }
