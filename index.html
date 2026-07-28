@@ -3,7 +3,7 @@
   <head>
     <title>Haojie Huang</title>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=1000">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Isotope JS -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
@@ -601,6 +601,14 @@
 
       initialize_blog_posts();
       update_isotope();
+
+      var resizeTimer;
+      $(window).on('resize orientationchange', function() {
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(function() {
+          $grid.isotope('layout');
+        }, 150);
+      });
     </script>
   </body>
 </html>
